@@ -2,7 +2,7 @@
 
 A tic-tac-toe game-React app
 
-live link: [https://prakrutithakur.github.io/tic-tac-toe/](https://prakrutithakur.github.io/t3/)
+live link: [https://prakrutithakur.github.io/tic-tac-toe/](https://prakrutithakur.github.io/tic-tac-toe/)
 
 ## Available Scripts
 
